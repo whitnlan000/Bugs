@@ -1,0 +1,33 @@
+body {
+    background-color: #953553;
+    text-align:center;
+
+}
+
+
+h1 {
+    text-shadow: 2px 2px 1px #842442;
+}
+
+button {
+    font-size: 18px;
+    border-color:white;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+table {
+    border:1px solid black ;
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
+
+button:hover {
+    text-shadow: 1px 1px 1px darkolivegreen;
+    background-color: yellowgreen;    
+    border-color:yellowgreen;
+}
+
+ul {
+    list-style-position: inside;
+}
